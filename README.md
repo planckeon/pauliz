@@ -145,13 +145,12 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Citation
 
-If you use Pauliz in academic work, please cite:
-
 ```bibtex
-@misc{pauliz,
-  author       = {Kataru, Baalateja},
-  title        = {Pauliz: A High-Performance Quantum Simulation Library in Zig},
-  year         = {2024},
-  url          = {https://github.com/bkataru-workshop/pauliz}
+@software{pauliz,
+  author = {Kataru, Baalateja},
+  title = {pauliz: Zero-Dependency Quantum Computing Simulation in Zig},
+  year = {2026},
+  publisher = {GitHub},
+  url = {https://github.com/planckeon/pauliz}
 }
 ```
